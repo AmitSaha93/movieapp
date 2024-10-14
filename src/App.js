@@ -13,7 +13,7 @@ const movie1 = {
 
 // 78c892c0
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=78c892c0';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=78c892c0';
 
 const App = () => {
   const name = 'Amit';
